@@ -21,3 +21,9 @@ moving the stepper motor to keep the face at the center of the frame.
 
 ![image](https://github.com/Fadi-Eid/Visionize/assets/113466842/1c1451a7-fecb-40a4-bf84-6283d3c4bb3a)
 Remove the jumper wire between GPIO0 and GND After fashing the code.
+Reset the ESP32-Cam with the serial monitor open in order to get the assigned IP-Address.
+
+To configure the video stream (Quality, resolution, contrast...) from any device connecteed to the same local network, enter on a browser the IP-Address of the ESP32-Cam (192.168.x.x)
+To view the stream only type in 192.168.x.x:81/stream
+
+Make sure to edit the SSID and Password of you local wifi in the code Control.ino and to change the IP Address of the ESP32-Cam in the Vision.py code.

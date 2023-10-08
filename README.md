@@ -23,6 +23,8 @@ moving the stepper motor to keep the face at the center of the frame.
 ![image](https://github.com/Fadi-Eid/Visionize/assets/113466842/a0541b37-f395-4332-97a1-6618b427089e)
 
 ![image](https://github.com/Fadi-Eid/Visionize/assets/113466842/1c1451a7-fecb-40a4-bf84-6283d3c4bb3a)
+
+
 Remove the jumper wire between GPIO0 and GND After fashing the code.
 Reset the ESP32-Cam with the serial monitor open in order to get the assigned IP-Address.
 

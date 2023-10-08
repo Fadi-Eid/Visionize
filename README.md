@@ -1,7 +1,6 @@
 # Visionize
 Face tracking system for Video Streaming and self-recording
 
-![Uploading Visionize.jpg…]()
 
 
 Hardware: 

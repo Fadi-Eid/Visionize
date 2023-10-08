@@ -1,5 +1,5 @@
 # Visionize
-Face tracking systems for Cameras
+Face tracking system for Video Streaming and self-recording
 
 ![Uploading Visionize.jpg…]()
 

@@ -2,6 +2,7 @@
 Face tracking systems for Cameras
 
 Hardware: 
+
 ESP32-Cam (A Thinker ESP32-Cam) -> CameraWebServer
 
 Arduino Uno R3 -> Control_serial

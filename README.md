@@ -3,8 +3,11 @@ Face tracking systems for Cameras
 
 Hardware: 
 ESP32-Cam (A Thinker ESP32-Cam) -> CameraWebServer
+
 Arduino Uno R3 -> Control_serial
+
 28BYJ-48 Stepper Motor and Driver
+
 
 Code: 
 CameraWebServer is the folder containing the code to set up the ESP32-Cam as a web server that sends the camera data.

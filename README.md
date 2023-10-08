@@ -17,3 +17,7 @@ the position of the face is than sent to the Arduino which is auto detected.
 The Arduino Uno connected to the serial port of the PC is running the code Control_serial which is responsble of
 moving the stepper motor to keep the face at the center of the frame.
 
+![image](https://github.com/Fadi-Eid/Visionize/assets/113466842/a0541b37-f395-4332-97a1-6618b427089e)
+
+![image](https://github.com/Fadi-Eid/Visionize/assets/113466842/1c1451a7-fecb-40a4-bf84-6283d3c4bb3a)
+Remove the jumper wire between GPIO0 and GND After fashing the code.

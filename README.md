@@ -1,7 +1,13 @@
 # Visionize
-Face tracking system for Video Streaming and self-recording
+## Face tracking system for Video Streaming and self-recording
 
 ![Visionize](https://github.com/Fadi-Eid/Visionize/assets/113466842/0a03a130-b511-49ce-b492-fc05307a56b6)
+
+This project is intended to solve the problem of human dependence when shooting video. From self recording, to professional conference recordings, this face tracking camera mount can be used to effectively keep the subject at the center of the frame. Testing and improvements on the software and hardware resulted in a smooth tracker which is much more fault tolerant and can precisely detect the face to be tracked even when obstacles and noisy background are present.
+
+The position (x-coordinates) of the face are sent serially to a microcontroller connected to the PC running the Python program for it to control the mount.
+The video data are provided to the Python script by the ESP32-Cam configured to be connected to the local network as a client.
+The library used for face detection is lighweight and can run on a CPU at about 30 FPS at 460p - 720p image quality.
 
 
 Hardware: 

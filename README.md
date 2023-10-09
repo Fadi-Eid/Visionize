@@ -10,7 +10,7 @@ The video data are provided to the Python script by the ESP32-Cam configured to 
 The library used for face detection is lighweight and can run on a CPU at about 30 FPS at 460p - 720p image quality.
 
 
-Hardware: 
+## Hardware: 
 
 ESP32-Cam (A Thinker ESP32-Cam) -> CameraWebServer
 
@@ -19,7 +19,7 @@ Arduino Uno R3 -> Control_serial
 28BYJ-48 Stepper Motor and Driver
 
 
-Code: 
+## Code: 
 CameraWebServer is the folder containing the code to set up the ESP32-Cam as a web server that sends the camera data.
 Vision.py is a python script that uses OpenCV and Mediapipe BlazeFace to detect the faces in the video strem of the ESP32-Cam,
 the position of the face is than sent to the Arduino which is auto detected.

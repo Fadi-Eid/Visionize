@@ -1,6 +1,7 @@
 # Visionize
 Face tracking system for Video Streaming and self-recording
 
+![Visionize](https://github.com/Fadi-Eid/Visionize/assets/113466842/0a03a130-b511-49ce-b492-fc05307a56b6)
 
 
 Hardware: 

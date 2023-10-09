@@ -38,3 +38,6 @@ To configure the video stream (Quality, resolution, contrast...) from any device
 To view the stream only type in 192.168.x.x:81/stream
 
 Make sure to edit the SSID and Password of you local wifi in the code Control.ino and to change the IP Address of the ESP32-Cam in the Vision.py code.
+
+### Watch the Demo Video on YouTube:
+https://youtu.be/0XePtBidsMQ
